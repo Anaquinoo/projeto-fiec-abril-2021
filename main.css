@@ -1,0 +1,76 @@
+.wrapper {
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+nav {
+    position: relative;
+    text-align: center;
+    background-color: rgb(53, 56, 63);
+    height: 50px;
+    width: 100%;
+    font: italic small-caps normal 18px/1.3em Arial, sans-serif;
+}
+
+header {
+    text-align: center;
+}
+
+#banner {
+    text-align: center;
+    width: 1500px;
+    height: 50%;
+}
+
+#conteudo {
+    background-color: #D3D3D3;
+    text-align: justify;
+    margin: auto;
+}
+
+#cadastrar {
+    text-align: justify;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    margin: auto;
+    box-shadow: 0px 0px 10px black;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.my-container0 {
+    width: 400px;
+    clear: both;
+}
+
+.my-container0 input {
+    width: 100%;
+    clear: both;
+}
+
+#lista {
+    background-color: #D3D3D3;
+    text-align: center;
+}
+
+table {
+    width: 70%;
+    margin-bottom: .4em;
+    table-layout: fixed;
+    text-align: center;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+table.comBordaSimples th {
+    border: 1px solid black;
+    background: #F0FFF0;
+}
+
+
+}
+
+}
